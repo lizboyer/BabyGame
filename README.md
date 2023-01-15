@@ -1,5 +1,5 @@
 # BabyGame
-A unity game created with a partner about babysitting.
+A Unity game created with a partner about babysitting.
 
 ## Contributers
 github.com/lizboyer: Programming
